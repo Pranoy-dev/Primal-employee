@@ -1,0 +1,6 @@
+[submodule "vercel-ai-chatbot"]
+	path = vercel-ai-chatbot
+	url = https://github.com/vercel/ai-chatbot.git
+[submodule "primal-user-view"]
+	path = primal-user-view
+	url = https://github.com/Pranoy-dev/Primal-user-view.git
